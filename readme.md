@@ -100,7 +100,7 @@
 
 ## Credits
 
-This list benefits massively from the research work of **Loreen Pogrzeba**.
+This list benefits massively from the research work of [**Loreen Pogrzeba**](https://www.researchgate.net/profile/Loreen_Pogrzeba).
 
 
 ## Contribute
