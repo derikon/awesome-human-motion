@@ -13,6 +13,8 @@
 + [Motion Analysis](#motion-analysis)
 + [Motion Synthesis](#motion-synthesis)
 + [Research Projects](#research-projects)
++ [Journals](#journals)
++ [Conferences](#conferences)
 
 
 ## Introduction
@@ -103,6 +105,22 @@
 
 + [Uni Bonn: Physics-based motion analysis and synthesis](http://cg.cs.uni-bonn.de/en/projects/motion-analysis-and-synthesis/) - Physically-based analysis and synthesis of (human) motions have a number of applications. They can help to enhance the efficiency of medical rehabilitation, to improve the understanding of motions in the realm of sports or to generate realistic animations for movies.
 + [FAU: Biomechanical Simulation for the Reconstruction and Synthesis of Human Motion](https://www.mad.tf.fau.de/research/projects/biomechanical-simulation/) - In this project, we investigate musculoskeletal modeling and simulation to analyze and understand human movement and performance. Our objective is to reconstruct human motion from measurement data for example for medical assessments or to predict human responses for virtual product development.
+
+
+## Journals
+
++ [Computers in Biology and Medicine](https://www.journals.elsevier.com/computers-in-biology-and-medicine)
++ [Informatics in Medicine Unlocked](https://www.journals.elsevier.com/informatics-in-medicine-unlocked)
++ [Image and Vision Computing](https://www.journals.elsevier.com/image-and-vision-computing)
++ [Clinical Biomechanics](https://www.journals.elsevier.com/clinical-biomechanics)
++ [Signal Processing: Image Communication](https://www.journals.elsevier.com/signal-processing-image-communication)
++ [Artificial Intelligence in Medicine](https://www.journals.elsevier.com/artificial-intelligence-in-medicine)
+
+
+## Conferences
+
++ [ICRA](https://dblp.org/db/conf/icra/index) - International Conference on Robotics and Automation
++ [MICCAI](https://dblp1.uni-trier.de/db/conf/miccai/) - Medical Image Computing and Computer-Assisted Intervention
 
 
 ## Credits
