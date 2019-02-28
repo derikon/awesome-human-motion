@@ -12,6 +12,7 @@
 + [Pose Estimation](#pose-estimation)
 + [Motion Analysis](#motion-analysis)
 + [Motion Synthesis](#motion-synthesis)
++ [Research Projects](#research-projects)
 
 
 ## Introduction
@@ -96,6 +97,12 @@
 + [Human Motion Synthesis](https://github.com/tomatosoldier/Human-Motion-Synthesis) - Human motion synthesis using Unity3D.
 + [GAN motion Prediction](https://github.com/amoghadishesha/GAN-motion-Prediction) - An LSTM based GAN for Human motion synthesis.
 + [Merel MoCap GAIL](https://github.com/ywchao/merel-mocap-gail) - An implementation of "Learning human behaviors from motion capture by adversarial imitation".
+
+
+## Research Projects
+
++ [Uni Bonn: Physics-based motion analysis and synthesis](http://cg.cs.uni-bonn.de/en/projects/motion-analysis-and-synthesis/) - Physically-based analysis and synthesis of (human) motions have a number of applications. They can help to enhance the efficiency of medical rehabilitation, to improve the understanding of motions in the realm of sports or to generate realistic animations for movies.
++ [FAU: Biomechanical Simulation for the Reconstruction and Synthesis of Human Motion](https://www.mad.tf.fau.de/research/projects/biomechanical-simulation/) - In this project, we investigate musculoskeletal modeling and simulation to analyze and understand human movement and performance. Our objective is to reconstruct human motion from measurement data for example for medical assessments or to predict human responses for virtual product development.
 
 
 ## Credits
