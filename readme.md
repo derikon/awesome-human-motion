@@ -76,6 +76,7 @@
 
 ## Motion Analysis
 
+### Implementations
 + [GaitAnalysisToolKit](https://github.com/csu-hmc/GaitAnalysisToolKit) - Tools for the Cleveland State Human Motion and Control Lab.
 + [motion classification](https://github.com/matthiasplappert/motion-classification) - The code written during my Bachelor Thesis "Classification of Human Whole-Body Motion using Hidden Markov Models".
 + [Human-detection-system-with-raspberry-Pi](https://github.com/OmalPerera/Human-detection-system-with-raspberry-Pi) - A motion detection system with RaspberryPi, OpenCV, Python.
@@ -90,6 +91,7 @@
 
 ## Motion Synthesis
 
+### Implementations
 + [Auto Conditioned RNN motion](https://github.com/papagina/Auto_Conditioned_RNN_motion) - Implementation of Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis.
 + [Character Animation](https://github.com/AliJalalifar/Character_Animation) - A Re-implementation of the paper "A Deep Learning Framework for Character Motion Synthesis and Editing".
 + [eccv18_mtvae
