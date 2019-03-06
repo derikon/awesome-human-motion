@@ -39,6 +39,7 @@
 + [SURREAL](https://github.com/gulvarol/surreal) - Learning from Synthetic Humans, CVPR 2017
 + [CMU](http://mocap.cs.cmu.edu/) - Carnegie Mellon University Motion Capture Database
 + [Berkley MHAD](http://tele-immersion.citris-uc.org/berkeley_mhad#hard) - [📷🎥🎤🤾‍♀️⌚️🤹‍♀️][👨‍🦰👩][👧👵] - The Berkeley Multimodal Human Action Database (MHAD) contains 11 actions performed by 7 male and 5 female subjects in the range 23-30 years of age except for one elderly subject.
++ [COCO](http://cocodataset.org) - [📷][👨‍🦰👩][👧👵] - COCO is a large-scale object detection, segmentation, and captioning dataset.
 
 
 ## Data Processing
@@ -59,6 +60,7 @@
 
 ### Lectures
 + [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101) - Basics of 2D and 3D Human Pose Estimation.
++ [Object Keypoint Similarity](http://cocodataset.org/#keypoints-eval) - This page describes the keypoint evaluation metrics used by COCO.
 
 ### Implementations
 + [Papers with Code](https://paperswithcode.com/task/pose-estimation) - A collection of papers addressing several tasks of pose estimation with code available.
