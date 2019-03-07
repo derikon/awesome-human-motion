@@ -62,9 +62,11 @@
 + [Human Pose Estimation 101](https://github.com/cbsudux/Human-Pose-Estimation-101) - Basics of 2D and 3D Human Pose Estimation.
 + [Object Keypoint Similarity](http://cocodataset.org/#keypoints-eval) - This page describes the keypoint evaluation metrics used by COCO.
 
-### Implementations
+### Papers
 + [Papers with Code](https://paperswithcode.com/task/pose-estimation) - A collection of papers addressing several tasks of pose estimation with code available.
 + [Human Pose Estimation Papers](https://github.com/Bob130/Human-Pose-Estimation-Papers) - A collection of papers addressing 2D and 3D human pose estimation.
+
+### Implementations
 + [3Dpose_ssl](https://github.com/chanyn/3Dpose_ssl) - 3D Human Pose Machines with Self-supervised Learning.
 + [3dpose_gan](https://github.com/DwangoMediaVillage/3dpose_gan) - The authors' implementation of Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations.
 + [3d_pose_baseline_pytorch](https://github.com/weigq/3d_pose_baseline_pytorch) - A simple baseline for 3d human pose estimation in PyTorch.
@@ -74,6 +76,7 @@
 + [DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 + [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
 + [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
++ [Human Shape and Pose](https://github.com/akanazawa/hmr) -  End-to-end Recovery of Human Shape and Pose - CVPR 2018 
 
 
 ## Motion Analysis
