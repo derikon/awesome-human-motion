@@ -77,6 +77,7 @@
 + [VideoPose3D](https://github.com/facebookresearch/VideoPose3D) - Efficient 3D human pose estimation in video using 2D keypoint trajectorie.
 + [3d-pose-baseline](https://github.com/una-dinosauria/3d-pose-baseline) - A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.
 + [Human Shape and Pose](https://github.com/akanazawa/hmr) -  End-to-end Recovery of Human Shape and Pose - CVPR 2018 
++ [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) - Real-Time and Accurate Multi-Person Pose Estimation&Tracking System.
 
 
 ## Motion Analysis
