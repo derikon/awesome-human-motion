@@ -16,6 +16,7 @@
 + [Commercial Projects](#commercial-projects)
 + [Journals](#journals)
 + [Conferences](#conferences)
++ [Videos](#videos)
 
 
 ## Introduction
@@ -136,6 +137,22 @@
 
 + [ICRA](https://dblp.org/db/conf/icra/index) - International Conference on Robotics and Automation
 + [MICCAI](https://dblp1.uni-trier.de/db/conf/miccai/) - Medical Image Computing and Computer-Assisted Intervention
++ [CVF](https://www.thecvf.com) - The Computer Vision Foundation
+
+
+## Videos
+
+### Two Minute Papers
+
++ [We Can All Become Video Game Characters With This AI](https://www.youtube.com/watch?v=Y73iUAh56iI) - The paper "Vid2Game: Controllable Characters Extracted from Real-World Videos" is available here: [https://arxiv.org/abs/1904.08379]()
+
+### CVPR 2019
+
++ [Oral Session 2-1C: Motion & Biometrics](https://www.youtube.com/watch?v=1DW1FSMs76k)
++ [Oral Session 1-1C: Action & Video](https://www.youtube.com/watch?v=JwaBi_2JFeU)
++ [Oral Session 1-2B: Synthesis](https://www.youtube.com/watch?v=9GR8V-VR4Qg)
++ [Oral Session 3-1A: Applications](https://www.youtube.com/watch?v=ts4ogdJW4_8)
++ [Oral Session 3-2B: Face & Body](https://www.youtube.com/watch?v=fNlMGWm7bbk)
 
 
 ## Credits
