@@ -133,12 +133,21 @@
 + [Signal Processing: Image Communication](https://www.journals.elsevier.com/signal-processing-image-communication)
 + [Artificial Intelligence in Medicine](https://www.journals.elsevier.com/artificial-intelligence-in-medicine)
 
+### Journal Ranking
+
++ [Google Scholar](https://scholar.google.com/citations) - Top publications by category and/or language.
+
 
 ## Conferences
 
 + [ICRA](https://dblp.org/db/conf/icra/index) - International Conference on Robotics and Automation
 + [MICCAI](https://dblp1.uni-trier.de/db/conf/miccai/) - Medical Image Computing and Computer-Assisted Intervention
 + [CVF](https://www.thecvf.com) - The Computer Vision Foundation
+
+### Conference Ranking
+
++ [Conference Rank](http://www.conferenceranks.com/) - Look up the rank of your conference.
++ [Google Scholar](https://scholar.google.com/citations) - Top publications by category and/or language.
 
 
 ## Videos
