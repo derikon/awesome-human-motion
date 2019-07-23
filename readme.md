@@ -12,7 +12,7 @@
 + [Pose Estimation](#pose-estimation)
 + [Motion Analysis](#motion-analysis)
 + [Motion Synthesis](#motion-synthesis)
-+ [Research Projects](#research-projects)
++ [Researchers, Institutes, Projects](#researchers,-institutes,-projects)
 + [Commercial Projects](#commercial-projects)
 + [Journals](#journals)
 + [Conferences](#conferences)
@@ -111,12 +111,13 @@
 + [Merel MoCap GAIL](https://github.com/ywchao/merel-mocap-gail) - An implementation of "Learning human behaviors from motion capture by adversarial imitation".
 
 
-## Research Projects
+## Researchers, Institutes, Projects
 
 + [Uni Bonn: Physics-based motion analysis and synthesis](http://cg.cs.uni-bonn.de/en/projects/motion-analysis-and-synthesis/) - Physically-based analysis and synthesis of (human) motions have a number of applications. They can help to enhance the efficiency of medical rehabilitation, to improve the understanding of motions in the realm of sports or to generate realistic animations for movies.
 + [FAU: Biomechanical Simulation for the Reconstruction and Synthesis of Human Motion](https://www.mad.tf.fau.de/research/projects/biomechanical-simulation/) - In this project, we investigate musculoskeletal modeling and simulation to analyze and understand human movement and performance. Our objective is to reconstruct human motion from measurement data for example for medical assessments or to predict human responses for virtual product development.
 + [USC Institute for Creative Technologies: SmartBody](http://smartbody.ict.usc.edu/) - SmartBody is a character animation platform originally developed at the USC Institute for Creative Technologies. SmartBody provides locomotion, steering, object manipulation, lip syncing, gazing, nonverbal behavior and retargeting in real time.
 + [Max Planck Institute for Intelligent Systems: Perceiving Systems](https://ps.is.tuebingen.mpg.de/code) - We combine research on computer vision, computer graphics, and machine learning to teach computers to see us and by understanding our behavior learn to be more human.
++ [Daniel Holden](http://theorangeduck.com/) - My name is Daniel Holden. I'm a programmer, writer, and digital artist currently working as a Machine Learning researcher at Ubisoft Montreal. My interests are Computer Graphics, Game Development, Theory of Computation, and Programming Languages.
 
 
 ## Commercial Projects
