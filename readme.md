@@ -32,15 +32,20 @@
 
 ## Datasets
 
-+ Sensors and Data Types - 📷(image), 🎥(video), 🎤(audio), 🤾‍♀️(Motion Capture), ⌚️(IMU or wearables), 🤹‍♀️(Kinect or similar)
-+ Sex - 👨‍🦰(male), 👩(female)
-+ Age - 👧(young), 👵(eldery)
-
 + [Human 3.6M](http://vision.imar.ro/human3.6m/description.php) - Large Scale Datasets and Predictive Methodsfor 3D Human Sensing in Natural Environments
 + [SURREAL](https://github.com/gulvarol/surreal) - Learning from Synthetic Humans, CVPR 2017
 + [CMU](http://mocap.cs.cmu.edu/) - Carnegie Mellon University Motion Capture Database
 + [Berkley MHAD](http://tele-immersion.citris-uc.org/berkeley_mhad#hard) - [📷🎥🎤🤾‍♀️⌚️🤹‍♀️][👨‍🦰👩][👧👵] - The Berkeley Multimodal Human Action Database (MHAD) contains 11 actions performed by 7 male and 5 female subjects in the range 23-30 years of age except for one elderly subject.
 + [COCO](http://cocodataset.org) - [📷][👨‍🦰👩][👧👵] - COCO is a large-scale object detection, segmentation, and captioning dataset.
++ [HDM05](http://resources.mpi-inf.mpg.de/HDM05/) - HDM05 contains more than three hours of systematically recorded and well-documented motion capture data in the C3D as well as in the ASF/AMC data format.
++ [KIT Whole-Body Human Motion Database](https://motion-database.humanoids.kit.edu/)
++ [CGVU Interaction Database](http://www.ipab.inf.ed.ac.uk/cgvu/InteractionDatabase/interactiondb.html) - This is the project page for creating a database of interactions between a character and an object/objects.
+
+### Description
+
++ Sensors and Data Types - 📷(image), 🎥(video), 🎤(audio), 🤾‍♀️(Motion Capture), ⌚️(IMU or wearables), 🤹‍♀️(Kinect or similar)
++ Sex - 👨‍🦰(male), 👩(female)
++ Age - 👧(young), 👵(eldery)
 
 
 ## Data Processing
