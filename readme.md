@@ -131,6 +131,7 @@
 
 + [wrnch.ai](https://wrnch.ai/) - wrnch is a computer vision / deep learning software engineering company based in Montréal, Canada, a renowned hub for AI.
 + [Qinematic](https://www.qinematic.com/) - Qinematic has developed software for 3D markerless motion capture and human movement analysis since 2012.
++ [DeepMotion](https://www.deepmotion.com) - DeepMotion’s solutions bridge physical and digital motion for virtual characters and machines. Using physics simulation, computer vision, and machine learning, DeepMotion reconstructs realistic motion from real-world examples.
 
 
 ## Journals
