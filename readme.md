@@ -124,6 +124,7 @@
 + [Max Planck Institute for Intelligent Systems: Perceiving Systems](https://ps.is.tuebingen.mpg.de/code) - We combine research on computer vision, computer graphics, and machine learning to teach computers to see us and by understanding our behavior learn to be more human.
 + [Daniel Holden](http://theorangeduck.com/) - My name is Daniel Holden. I'm a programmer, writer, and digital artist currently working as a Machine Learning researcher at Ubisoft Montreal. My interests are Computer Graphics, Game Development, Theory of Computation, and Programming Languages.
 + [3DeepLearner](https://3deeplearner.com/) - Deep Learning for Technical Artists in Animation, VFX, and Games.
++ [Arash Hosseini](https://forknwork.wordpress.com/) - R&D Engineer and ML Enthusiast.
 
 
 ## Commercial Projects
