@@ -114,6 +114,7 @@
 + [Human Motion Synthesis](https://github.com/tomatosoldier/Human-Motion-Synthesis) - Human motion synthesis using Unity3D.
 + [GAN motion Prediction](https://github.com/amoghadishesha/GAN-motion-Prediction) - An LSTM based GAN for Human motion synthesis.
 + [Merel MoCap GAIL](https://github.com/ywchao/merel-mocap-gail) - An implementation of "Learning human behaviors from motion capture by adversarial imitation".
++ [Skills from Videos](https://github.com/akanazawa/motion_reconstruction) - Motion Reconstruction Code and Data for Skills from Videos (SFV)
 
 
 ## Researchers, Institutes, Projects
